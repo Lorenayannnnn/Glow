@@ -1,19 +1,19 @@
-# typescript-next-template
+# Frontend for Glow (THE BEST Skincare Product🔥🔥🔥)
 
-TypeScript Next Template
+
 
 ## Testing out
 
 - `git clone` this repository.
 
 ```
-git clone https://github.com/anaclumos/typescript-next-template
+git clone https://github.com/Lorenayannnnn/Glow.git
 ```
 
 - `cd` into the directory.
 
 ```
-cd typescript-next-template
+cd Glow
 ```
 
 - Install packages.
@@ -32,8 +32,3 @@ yarn dev
 
 ![Warp](https://media.giphy.com/media/3ornjHyjf1FiUneGGI/giphy.gif)
 
-- Move to your dev space and paste this.
-
-```
-git clone https://github.com/anaclumos/typescript-next-template && cd typescript-next-template && yarn && yarn warp
-```
